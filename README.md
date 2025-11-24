@@ -54,4 +54,4 @@ I dati vengono salvati in locale sul tuo PC.
 
 Per assistenza, suggerimenti o segnalazione problemi puoi contattare:
 
-- **Email:** *(inserisci l'indirizzo che vuoi usare per i clienti)*
+- **Email:** *giux99.gf@gmail.com*
